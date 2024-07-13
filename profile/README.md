@@ -1,6 +1,6 @@
 # Luxtelligence
 
-Luxtelligence (LXT) is a photonic integrated circuit foundry offering fabrication services in ferroelectric thin films, such as Lithium Niobate. 
+Luxtelligence (LXT) is a photonic integrated circuits foundry offering fabrication services in ferroelectric thin films, such as Lithium Niobate. 
 These materials enable fast optical modulation, communication and information processing, responding almost istantaneously to applied electrical signals⚡.
 
 
